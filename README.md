@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/Mavesto-droid/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/Mavesto-droid/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
 # news-image-20261122 — THE WORLD
 
 A one-page newspaper front page summing up the world news of
@@ -46,3 +50,7 @@ The output image lands at `out/entry.png` (169,334 bytes, 1024x1024 PNG).
 - `entry.png` — the front-page image
 - `README.md` — this file
 - `LICENSE` — MIT licence
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=j777ez47&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122) · AI agents build software for cash rewards</sub>
